@@ -1,5 +1,4 @@
-# Tracking-Device Survival Analysis — Fleetoo
-
+# Tracking-Device Survival Analysis 
 A Kaplan–Meier survival analysis of **GPS/telematics device transmission continuity** across a
 fleet of ~4,250 installed devices. It answers a single operational question:
 
