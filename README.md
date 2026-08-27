@@ -10,8 +10,8 @@ The result is a single, self-contained, **anonymized** HTML page (`index.html`) 
 charts, no external libraries, no back-end. Drop it on GitHub Pages and it renders as an
 interactive report.
 
-**Live page:** _(after enabling GitHub Pages, paste your link here — e.g._
-`https://<your-username>.github.io/<repo>/`_)_
+**Live page:** 
+`https://ameenelzaki96.github.io/Survival-Analysis`
 
 ---
 
